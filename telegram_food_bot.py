@@ -8,7 +8,7 @@ import random
 logging.basicConfig(level=logging.INFO)
 
 BOT_TOKEN = "8118589093:AAHnOTdlaA6Zxm4uGCChgrM1GRal8QwDru4"
-ADMINS = [5077703938,]
+ADMINS = [5077703938, 5333754007, 6305230956]
 MIN_ORDER = 7.0
 
 BRANDS = [
